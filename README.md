@@ -1,7 +1,7 @@
 
 # FORM WIZZARD
 
-> `PRIVATE PROJECT`, so source code access upon request.
+> `PRIVATE PROJECT: source code upon request`
 
 
 Form Web App developed for companies. It has the options to add questions / sub-questions and registers separate entries for participants. Full CRUD operation + Login/Logout.
