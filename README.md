@@ -2,7 +2,7 @@
 # FORM WIZZARD
 
 > Form Web App developed for companies. It has the options to add questions / sub-questions and registers separate entries for participants. Full CRUD operation + Login/Logout.
-> Private project, so source code access upon request.
+> `private project`, so source code access upon request.
 
 ## VIDEO DEMO
 
